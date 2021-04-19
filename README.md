@@ -1,6 +1,3 @@
-<h1 align="center">
-    <img alt="Podcastr" title="Podcastr" src="https://user-images.githubusercontent.com/990877/115301451-98935e00-a137-11eb-818a-a8f00ab86db2.png" />
-</h1>
 
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -23,6 +20,10 @@
 <p align="center">
   <img alt="Moveit" src="https://raw.githubusercontent.com/guilhermecapitao/podcastr/main/.github/icon.svg" width="120px">
 </p>
+
+<h1 align="center">
+    <img alt="Podcastr" title="Podcastr" src="https://user-images.githubusercontent.com/990877/115301451-98935e00-a137-11eb-818a-a8f00ab86db2.png" />
+</h1>
 
 ## 🧪 Technologies
 
