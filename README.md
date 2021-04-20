@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Moveit" src="https://raw.githubusercontent.com/guilhermecapitao/podcastr/main/.github/icon.svg" width="120px">
+  <img alt="Moveit" src=https://user-images.githubusercontent.com/990877/115440682-6856c880-a1e6-11eb-95f7-729103a5e113.png>
 </p>
 
 <h1 align="center">
