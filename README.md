@@ -67,4 +67,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ---
 
-<p align="center">Made with 💜 by Maic Miller - com ajuda da RocketSeat</p>
+<p align="center">Made with 💜 by Maic Miller - with the help of RocketSeat</p>
