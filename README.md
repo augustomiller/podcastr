@@ -9,16 +9,12 @@
 
 <p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
-  
-  <img src="https://img.shields.io/github/forks/guilhermecapitao/nlw05-reactjs?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">     
-
-  <img src="https://img.shields.io/github/stars/guilhermecapitao/nlw05-reactjs?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Moveit" src="https://raw.githubusercontent.com/guilhermecapitao/podcastr/main/.github/icon.svg" width="120px">
+  <img alt="Moveit" src=https://user-images.githubusercontent.com/990877/115440682-6856c880-a1e6-11eb-95f7-729103a5e113.png>
 </p>
 
 <h1 align="center">
@@ -71,4 +67,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ---
 
-<p align="center">Made with 💜 by Maic Miller - com ajuda da RocketSeat</p>
+<p align="center">Made with 💜 by Maic Miller - with the help of RocketSeat</p>
